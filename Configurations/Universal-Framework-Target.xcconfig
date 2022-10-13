@@ -12,8 +12,8 @@ TARGETED_DEVICE_FAMILY[sdk=iphone*]           = 1,2
 TARGETED_DEVICE_FAMILY[sdk=appletvsimulator*] = 3
 TARGETED_DEVICE_FAMILY[sdk=appletv*]          = 3
 
-ENABLE_BITCODE[sdk=macosx*]                   = NO
-ENABLE_BITCODE[sdk=iphonesimulator*]          = NO
-ENABLE_BITCODE[sdk=iphone*]                   = YES
-ENABLE_BITCODE[sdk=appletvsimulator*]         = YES
-ENABLE_BITCODE[sdk=appletv*]                  = YES
+//ENABLE_BITCODE[sdk=macosx*]                   = NO
+//ENABLE_BITCODE[sdk=iphonesimulator*]          = NO
+//ENABLE_BITCODE[sdk=iphone*]                   = YES
+//ENABLE_BITCODE[sdk=appletvsimulator*]         = YES
+//ENABLE_BITCODE[sdk=appletv*]                  = YES
