@@ -17,3 +17,5 @@ TARGETED_DEVICE_FAMILY[sdk=appletv*]          = 3
 //ENABLE_BITCODE[sdk=iphone*]                   = YES
 //ENABLE_BITCODE[sdk=appletvsimulator*]         = YES
 //ENABLE_BITCODE[sdk=appletv*]                  = YES
+
+EXCLUDED_ARCHS[sdk=iphonesimulator*]          = arm64
